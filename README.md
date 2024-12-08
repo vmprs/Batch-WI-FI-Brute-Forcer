@@ -45,18 +45,9 @@ Here we go! Start the attacking process and sit back until it finishes.
 I have provided you 50 most common passwords but you can also add your own password lists.
 
 # VIDEO DEMO: WIFI HACKING WITH CMD IN ACTION
-Small video demo from the creator himself – showing the project in action. You can also download the project files from the bottom of this post and try your hands on it. (Make sure to read the Disclaimer twice before that)
 
-Youtube Link- <a href="https://www.youtube.com/watch?v=l1X9leGySBU">Quick Demo by TUX!</a>
+Youtube Link- <a href="https://www.youtube.com/watch?v=HoEGN7dKqC0">Quick Demo By Ebola Max</a>
 
-# THAT EXTRA MILE – IS ALWAYS GOOD! 
+# Updates
 
-![](https://i2.wp.com/www.thebateam.org/wp-content/uploads/2020/04/bf2.png?w=540&ssl=1)
-
-I have provided you a **key combinator** app that can create random passwords with the information you gave.
-
-# THEBATEAM VIDEO REVIEW
-
-Youtube Link- <a href="https://youtu.be/80lYo4Hhmk4">Working Review – Demo video!</a>
-
-[Read Full Article](https://www.thebateam.org/2020/04/hack-wifi-with-cmd/)
+- Fixed the Blank Network Issue - Hidden Network Issue.
