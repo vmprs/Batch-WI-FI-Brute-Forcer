@@ -46,7 +46,7 @@ I have provided you 50 most common passwords but you can also add your own passw
 
 # VIDEO DEMO: WIFI HACKING WITH CMD IN ACTION
 
-Youtube Link- <a href="https://www.youtube.com/watch?v=HoEGN7dKqC0">Quick Demo By Ebola Max</a>
+Youtube Link- <a href="https://www.youtube.com/watch?v=HoEGN7dKqC0">Quick Demo By Ebola Man</a>
 
 # Updates
 
